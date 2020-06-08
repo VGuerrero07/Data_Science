@@ -7,6 +7,10 @@
 # Data Science Portfolio
 <sub>Repository of Data Science Projects</sub>
 
-Ever since I was a kid, my dream is to be recognized by helping people solve their problems and achieve their goals. To accomplish this dream, I have focused mainly on giving solutions to improve results, what has developed problem-solving skills and critical thinking in me. Also, as a passionate about data, I became realy interested in how Data Science and Machine Learning skills could help me to enable other people`s success.
+As a person of Exact Sciences and former Chemical Engineering student, I have developed **robust critical thinking and problem-solving skills** during my experiences, either by working on practical projects or studying hard for the courses. They are two of my most prominent characteristics to this day.
 
-Now, I feel there is certainly much more to learn, and this dream still burns inside me. I love improving my skills, hard or soft, day after day, through courses and books, so that I can come up with many other solutions for the area that I work today, and open a future of new possibilities!
+Also, as a **passionate about data and how it can impact processes, businesses, and (most important) DREAMS**, I became really interested in studying Data Science and Machine Learning skills by myself, focusing on solving problems and getting insights with data available online.
+
+Finally, I grew great interest in Management and Businesses in my Graduation, what led me into mixing Management and Engineering courses all together and into developing **business thinking and knowledge**.
+
+Now, I feel there is certainly much more to learn to accomplish my dream: to be recognized by helping people solve their problems and achieve their goals. This is why I have always loved helping people around me, and why I **always strive to be better than I was yesterday**!
