@@ -11,7 +11,10 @@ As a person of Exact Sciences and former Chemical Engineering student, I have de
 
 This repository is to show my Data Science projects, where I can practice my skills and get better everyday!
 
-## Links:
-[LinkedIn](https://www.linkedin.com/in/vitorsallesguerrero07/)
+You can get in touch with me in my social media!
 
-**Analyzing Airbnb Data from Stockholm, Sweden**: Analyzing_Airbnb_Data.ipynb
+* [LinkedIn](https://www.linkedin.com/in/vitorsallesguerrero07/)
+* [Medium](https://medium.com/@vsguerrero1997)
+
+## Projects:
+[**Analyzing Airbnb Data from Stockholm, Sweden**](https://github.com/VGuerrero07/Data_Science/blob/master/Analyzing_Airbnb_Data.ipynb)
