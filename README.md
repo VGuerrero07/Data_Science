@@ -18,4 +18,5 @@ You can get in touch with me in my social media!
 
 ## Projects:
 [**Analyzing Airbnb Data from Stockholm, Sweden**](https://github.com/VGuerrero07/Data_Science/blob/master/Analyzing_Airbnb_Data.ipynb)
+
 [**Analyzing Violence Data from Rio de Janeiro State** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/An%C3%A1lise_de_Dados_de_Viol%C3%AAncia_do_RJ.ipynb)
