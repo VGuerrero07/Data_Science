@@ -7,9 +7,13 @@
 # Data Science Portfolio
 <sub>Repository of Data Science Projects</sub>
 
-As a person of Exact Sciences and former Chemical Engineering student, I have developed **robust critical thinking and problem-solving skills** during my experiences, either by working on practical projects or studying hard for the courses. They are two of my most prominent characteristics to this day. Also, as a **passionate about data and how it can impact processes, businesses, and (most important) DREAMS**, I became really interested in studying Data Science and Machine Learning skills by myself, focusing on solving problems and getting insights with data available online. Finally, I grew great interest in Management and Businesses in my Graduation, what led me into mixing Management and Engineering courses all together and into developing **business thinking and knowledge**.
+I want more than just seeing the data revolution of our times; I want to be an **effective part of it**.
 
-This repository is to show my Data Science projects, where I can practice my skills and get better everyday!
+As information increasingly becomes more important as an asset, it appears from everything, everywhere. Not handling it properly may confuse more than organize ideas and provide better decision-making.
+
+This is exactly why I started studying Data Science, Machine Learning, Big data, and Business Intelligence: to **transform information into actual values that companies can use for growth, survivability, competitiveness, and much more**.
+
+The Engineering background made me develop problem-solving and project management skills. With that in mind and with the dream to affect every person around me, I want to allign both knowledges to cause immediate impact and **make peoples lives easier!**
 
 You can get in touch with me in my social media!
 
