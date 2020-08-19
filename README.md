@@ -26,3 +26,5 @@ You can get in touch with me in my social media!
 [**Analyzing Violence Data from Rio de Janeiro State** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/An%C3%A1lise_de_Dados_de_Viol%C3%AAncia_do_RJ.ipynb)
 
 [**Analyzing COVID-19 Data from Brazil** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/COVID_19_no_Brasil_Estudo_de_Caso.ipynb)
+
+[**Detecting Credit Card Frauds with Machine Learning**](https://github.com/VGuerrero07/Data_Science/blob/master/Machine_Learning_for_Credit_Card_Fraud_Detection.ipynb)
