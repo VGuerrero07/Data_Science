@@ -13,7 +13,7 @@ As information increasingly becomes more important as an asset, it appears from 
 
 This is exactly why I started studying Data Science, Machine Learning, Big data, and Business Intelligence: to **transform information into actual values that companies can use for growth, survivability, competitiveness, and much more**.
 
-The Engineering background made me develop problem-solving and project management skills. With that in mind and with the dream to affect every person around me, I want to allign both knowledges to cause immediate impact and **make peoples lives easier!**
+The Engineering background made me develop problem-solving and project management skills. With that in mind and with the dream to affect every person around me, I want to allign both knowledges to cause immediate impact and **make people's lives easier!**
 
 You can get in touch with me in my social media!
 
