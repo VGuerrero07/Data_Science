@@ -21,10 +21,10 @@ You can get in touch with me in my social media!
 * [Medium](https://medium.com/@vsguerrero1997)
 
 ## Projects:
-[**Analyzing Airbnb Data from Stockholm, Sweden**](https://github.com/VGuerrero07/Data_Science/blob/master/Analyzing_Airbnb_Data.ipynb)
+[**Analyzing Airbnb Data from Stockholm, Sweden**](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/Analyzing_Airbnb_Data.ipynb)
 
-[**Analyzing Violence Data from Rio de Janeiro State** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/An%C3%A1lise_de_Dados_de_Viol%C3%AAncia_do_RJ.ipynb)
+[**Analyzing Violence Data from Rio de Janeiro State** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/An%C3%A1lise_de_Dados_de_Viol%C3%AAncia_do_RJ.ipynb)
 
-[**Analyzing COVID-19 Data from Brazil** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/COVID_19_no_Brasil_Estudo_de_Caso.ipynb)
+[**Analyzing COVID-19 Data from Brazil** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/COVID_19_no_Brasil_Estudo_de_Caso.ipynb)
 
-[**Detecting Credit Card Frauds with Machine Learning**](https://github.com/VGuerrero07/Data_Science/blob/master/Machine_Learning_for_Credit_Card_Fraud_Detection.ipynb)
+[**Detecting Credit Card Frauds with Machine Learning**](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/Machine_Learning_for_Credit_Card_Fraud_Detection.ipynb)
