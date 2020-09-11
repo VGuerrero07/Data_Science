@@ -28,3 +28,5 @@ You can get in touch with me in my social media!
 [**Analyzing COVID-19 Data from Brazil** (Portuguese)](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/COVID_19_no_Brasil_Estudo_de_Caso.ipynb)
 
 [**Detecting Credit Card Frauds with Machine Learning**](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/Machine_Learning_for_Credit_Card_Fraud_Detection.ipynb)
+
+[**Predicting Churn from a Telecom Company**](https://github.com/VGuerrero07/Data_Science/blob/master/Projects/Churn_Rate_Prediction.ipynb)
